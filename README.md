@@ -423,7 +423,7 @@ AG-UI shows strong potential as a frontend abstraction layer for agent-based sys
 
 ## References
 
-- [AG-UI Protocol Specification](https://github.com/ag-ui)
+- [AG-UI Protocol Specification](https://github.com/ag-ui-protocol/ag-ui)
 - [CopilotKit Documentation](https://docs.copilotkit.ai)
 - [LangChain Documentation](https://python.langchain.com)
 - [Mastra Documentation](https://mastra.ai)
